@@ -1,0 +1,12 @@
+lb5_w.zip filter=lfs diff=lfs merge=lfs -text
+lb6.zip filter=lfs diff=lfs merge=lfs -text
+signal.zip filter=lfs diff=lfs merge=lfs -text
+lb2.zip filter=lfs diff=lfs merge=lfs -text
+lb2_w.zip filter=lfs diff=lfs merge=lfs -text
+lb3_w.zip filter=lfs diff=lfs merge=lfs -text
+lb4.zip filter=lfs diff=lfs merge=lfs -text
+lb5.zip filter=lfs diff=lfs merge=lfs -text
+lb3.zip filter=lfs diff=lfs merge=lfs -text
+lb4_W.zip filter=lfs diff=lfs merge=lfs -text
+lb6_w.zip filter=lfs diff=lfs merge=lfs -text
+signal_w.zip filter=lfs diff=lfs merge=lfs -text
